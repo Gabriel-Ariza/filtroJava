@@ -1,0 +1,312 @@
+[ {
+  "numeroFactura" : 27,
+  "fecha" : "2024-02-04T00:27:47",
+  "cliente" : {
+    "id" : 2,
+    "nombre" : "Maria",
+    "apellido" : "Lopez",
+    "email" : "mlopez@gmail.com",
+    "direccion" : "1002",
+    "celular" : "31567890",
+    "documento" : "1002",
+    "fullName" : "Maria Lopez"
+  },
+  "items" : [ {
+    "cantidad" : 0,
+    "producto" : {
+      "codigo" : 2,
+      "nombre" : "Producto2",
+      "descripcion" : "Descripción del Producto 2",
+      "precioVenta" : 40.0,
+      "precioCompra" : 25.0,
+      "codigoNombre" : "2 Producto2 $ 40,00",
+      "utilidad" : 15.0
+    },
+    "importe" : 0.0,
+    "nombreProducto" : "Producto2"
+  }, {
+    "cantidad" : 20,
+    "producto" : {
+      "codigo" : 2,
+      "nombre" : "Producto2",
+      "descripcion" : "Descripción del Producto 2",
+      "precioVenta" : 40.0,
+      "precioCompra" : 25.0,
+      "codigoNombre" : "2 Producto2 $ 40,00",
+      "utilidad" : 15.0
+    },
+    "importe" : 800.0,
+    "nombreProducto" : "Producto2"
+  } ],
+  "descuentoTotal" : 0.0,
+  "totalFactura" : 800.0
+}, {
+  "numeroFactura" : 28,
+  "fecha" : "2024-02-04T00:31:53",
+  "cliente" : {
+    "id" : 5,
+    "nombre" : "Pedro",
+    "apellido" : "Rodriguez",
+    "email" : "prodriguez@gmail.com",
+    "direccion" : "1005",
+    "celular" : "31901234",
+    "documento" : "1005",
+    "fullName" : "Pedro Rodriguez"
+  },
+  "items" : [ {
+    "cantidad" : 20,
+    "producto" : {
+      "codigo" : 2,
+      "nombre" : "Producto2",
+      "descripcion" : "Descripción del Producto 2",
+      "precioVenta" : 40.0,
+      "precioCompra" : 25.0,
+      "codigoNombre" : "2 Producto2 $ 40,00",
+      "utilidad" : 15.0
+    },
+    "importe" : 800.0,
+    "nombreProducto" : "Producto2"
+  }, {
+    "cantidad" : 52,
+    "producto" : {
+      "codigo" : 9,
+      "nombre" : "",
+      "descripcion" : "",
+      "precioVenta" : 5.0,
+      "precioCompra" : 8.0,
+      "codigoNombre" : "9  $ 5,00",
+      "utilidad" : -3.0
+    },
+    "importe" : 260.0,
+    "nombreProducto" : ""
+  } ],
+  "descuentoTotal" : 0.1,
+  "totalFactura" : 1060.0
+}, {
+  "numeroFactura" : 29,
+  "fecha" : "2024-02-04T00:33:28",
+  "cliente" : {
+    "id" : 6,
+    "nombre" : "Silvia",
+    "apellido" : "Gomez",
+    "email" : "sgomez@gmail.com",
+    "direccion" : "1006",
+    "celular" : "Cra xx",
+    "documento" : "1006",
+    "fullName" : "Silvia Gomez"
+  },
+  "items" : [ {
+    "cantidad" : 52,
+    "producto" : {
+      "codigo" : 8,
+      "nombre" : "Producto20",
+      "descripcion" : "Descripción del Producto 20",
+      "precioVenta" : 75.0,
+      "precioCompra" : 48.0,
+      "codigoNombre" : "8 Producto20 $ 75,00",
+      "utilidad" : 27.0
+    },
+    "importe" : 3900.0,
+    "nombreProducto" : "Producto20"
+  }, {
+    "cantidad" : 10,
+    "producto" : {
+      "codigo" : 4,
+      "nombre" : "Producto4",
+      "descripcion" : "Descripción del Producto 4",
+      "precioVenta" : 70.0,
+      "precioCompra" : 45.0,
+      "codigoNombre" : "4 Producto4 $ 70,00",
+      "utilidad" : 25.0
+    },
+    "importe" : 700.0,
+    "nombreProducto" : "Producto4"
+  }, {
+    "cantidad" : 74,
+    "producto" : {
+      "codigo" : 6,
+      "nombre" : "Producto18",
+      "descripcion" : "Descripción del Producto 18",
+      "precioVenta" : 65.0,
+      "precioCompra" : 40.0,
+      "codigoNombre" : "6 Producto18 $ 65,00",
+      "utilidad" : 25.0
+    },
+    "importe" : 4810.0,
+    "nombreProducto" : "Producto18"
+  } ],
+  "descuentoTotal" : 0.1,
+  "totalFactura" : 9410.0
+}, {
+  "numeroFactura" : 30,
+  "fecha" : "2024-02-04T00:39:16",
+  "cliente" : {
+    "id" : 9,
+    "nombre" : "silvia",
+    "apellido" : "perez",
+    "email" : "sperez@gmail.com",
+    "direccion" : "1012",
+    "celular" : "xxx",
+    "documento" : "1012",
+    "fullName" : "silvia perez"
+  },
+  "items" : [ {
+    "cantidad" : 85,
+    "producto" : {
+      "codigo" : 5,
+      "nombre" : "Producto5",
+      "descripcion" : "Descripción del Producto 5",
+      "precioVenta" : 55.0,
+      "precioCompra" : 30.0,
+      "codigoNombre" : "5 Producto5 $ 55,00",
+      "utilidad" : 25.0
+    },
+    "importe" : 4675.0,
+    "nombreProducto" : "Producto5"
+  } ],
+  "descuentoTotal" : 0.1,
+  "totalFactura" : 4675.0
+}, {
+  "numeroFactura" : 11,
+  "fecha" : "2024-02-13T14:53:50",
+  "cliente" : {
+    "id" : 4,
+    "nombre" : "Laura",
+    "apellido" : "Martinez",
+    "email" : "lmartinez@gmail.com",
+    "direccion" : "1004",
+    "celular" : "31890123",
+    "documento" : "1004",
+    "fullName" : "Laura Martinez"
+  },
+  "items" : [ {
+    "cantidad" : 3,
+    "producto" : {
+      "codigo" : 1,
+      "nombre" : "Producto1",
+      "descripcion" : "Descripción del Producto 1",
+      "precioVenta" : 50.0,
+      "precioCompra" : 30.0,
+      "codigoNombre" : "1 Producto1 $ 50,00",
+      "utilidad" : 20.0
+    },
+    "importe" : 150.0,
+    "nombreProducto" : "Producto1"
+  }, {
+    "cantidad" : 1,
+    "producto" : {
+      "codigo" : 2,
+      "nombre" : "Producto2",
+      "descripcion" : "Descripción del Producto 2",
+      "precioVenta" : 40.0,
+      "precioCompra" : 25.0,
+      "codigoNombre" : "2 Producto2 $ 40,00",
+      "utilidad" : 15.0
+    },
+    "importe" : 40.0,
+    "nombreProducto" : "Producto2"
+  } ],
+  "descuentoTotal" : 0.0,
+  "totalFactura" : 190.0
+}, {
+  "numeroFactura" : 12,
+  "fecha" : "2024-02-13T16:30:07",
+  "cliente" : {
+    "id" : 5,
+    "nombre" : "Pedro",
+    "apellido" : "Rodriguez",
+    "email" : "prodriguez@gmail.com",
+    "direccion" : "1005",
+    "celular" : "31901234",
+    "documento" : "1005",
+    "fullName" : "Pedro Rodriguez"
+  },
+  "items" : [ {
+    "cantidad" : 4,
+    "producto" : {
+      "codigo" : 7,
+      "nombre" : "Producto19",
+      "descripcion" : "Descripción del Producto 19",
+      "precioVenta" : 80.0,
+      "precioCompra" : 50.0,
+      "codigoNombre" : "7 Producto19 $ 80,00",
+      "utilidad" : 30.0
+    },
+    "importe" : 320.0,
+    "nombreProducto" : "Producto19"
+  }, {
+    "cantidad" : 8,
+    "producto" : {
+      "codigo" : 2,
+      "nombre" : "Producto2",
+      "descripcion" : "Descripción del Producto 2",
+      "precioVenta" : 40.0,
+      "precioCompra" : 25.0,
+      "codigoNombre" : "2 Producto2 $ 40,00",
+      "utilidad" : 15.0
+    },
+    "importe" : 320.0,
+    "nombreProducto" : "Producto2"
+  } ],
+  "descuentoTotal" : 0.0,
+  "totalFactura" : 640.0
+}, {
+  "numeroFactura" : 13,
+  "fecha" : "2024-02-13T18:25:17",
+  "cliente" : {
+    "id" : 1,
+    "nombre" : "Juan",
+    "apellido" : "Perez",
+    "email" : "jperez@gmail.com",
+    "direccion" : "1001",
+    "celular" : "31448975",
+    "documento" : "1001",
+    "fullName" : "Juan Perez"
+  },
+  "items" : [ {
+    "cantidad" : 2,
+    "producto" : {
+      "codigo" : 3,
+      "nombre" : "Producto3",
+      "descripcion" : "Descripción del Producto 3",
+      "precioVenta" : 60.0,
+      "precioCompra" : 35.0,
+      "codigoNombre" : "3 Producto3 $ 60,00",
+      "utilidad" : 25.0
+    },
+    "importe" : 120.0,
+    "nombreProducto" : "Producto3"
+  } ],
+  "descuentoTotal" : 0.05,
+  "totalFactura" : 120.0
+}, {
+  "numeroFactura" : 14,
+  "fecha" : "2024-02-13T18:28:11",
+  "cliente" : {
+    "id" : 1,
+    "nombre" : "Juan",
+    "apellido" : "Perez",
+    "email" : "jperez@gmail.com",
+    "direccion" : "1001",
+    "celular" : "31448975",
+    "documento" : "1001",
+    "fullName" : "Juan Perez"
+  },
+  "items" : [ {
+    "cantidad" : 2,
+    "producto" : {
+      "codigo" : 3,
+      "nombre" : "Producto3",
+      "descripcion" : "Descripción del Producto 3",
+      "precioVenta" : 60.0,
+      "precioCompra" : 35.0,
+      "codigoNombre" : "3 Producto3 $ 60,00",
+      "utilidad" : 25.0
+    },
+    "importe" : 120.0,
+    "nombreProducto" : "Producto3"
+  } ],
+  "descuentoTotal" : 0.05,
+  "totalFactura" : 120.0
+}, {
+  "numeroFactura
